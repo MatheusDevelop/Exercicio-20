@@ -1,0 +1,13 @@
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex20\bin\Debug\netcoreapp3.1\ex20.exe
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex20\bin\Debug\netcoreapp3.1\ex20.deps.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex20\bin\Debug\netcoreapp3.1\ex20.runtimeconfig.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex20\bin\Debug\netcoreapp3.1\ex20.runtimeconfig.dev.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex20\bin\Debug\netcoreapp3.1\ex20.dll
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex20\bin\Debug\netcoreapp3.1\ex20.pdb
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex20\obj\Debug\netcoreapp3.1\ex20.csprojAssemblyReference.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex20\obj\Debug\netcoreapp3.1\ex20.AssemblyInfoInputs.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex20\obj\Debug\netcoreapp3.1\ex20.AssemblyInfo.cs
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex20\obj\Debug\netcoreapp3.1\ex20.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex20\obj\Debug\netcoreapp3.1\ex20.dll
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex20\obj\Debug\netcoreapp3.1\ex20.pdb
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex20\obj\Debug\netcoreapp3.1\ex20.genruntimeconfig.cache
